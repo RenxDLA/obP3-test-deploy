@@ -1,0 +1,44 @@
+﻿@model HotelDeCabañas.Entidades.TipoCabaña
+
+<h1>Alta de tipo de cabaña:</h1>
+<p>
+
+
+</p>
+<h4>Agregue un nuevo tipo de cabaña llenando el siguiente formulario:</h4>
+<p>
+
+
+</p>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label class="control-label">Nombre</label>
+                <input asp-for="NombreTipo" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Descripción</label>
+                <input asp-for="Descripcion.Valor" class="form-control" name="desc" />
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Costo por huesped</label>
+                <input asp-for="costoPorHuesped" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Agregar tipo" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+<p>
+
+</p>
+
+<p>@ViewBag.msg</p>
+
+
+
+

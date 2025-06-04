@@ -1,0 +1,163 @@
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Cliente\Desktop\Ren\ORT\P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio_P3_VALIDACIONES_FLEXIBLES\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_DTO_WEBAPI\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.deps.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.csproj.CopyComplete
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\refint\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\LogicaAplicacion\obj\Debug\net7.0\ref\LogicaAplicacion.dll

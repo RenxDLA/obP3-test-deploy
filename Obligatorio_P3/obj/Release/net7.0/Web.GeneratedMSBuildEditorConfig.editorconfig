@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\Obligatorio_P3\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\Obligatorio_P3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Cabaña/CabañasHabilitadas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxDYWJhw7Fhc0hhYmlsaXRhZGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Cabaña/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Cabaña/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Mantenimiento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Mantenimiento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Mantenimiento/MantenimientosEntreValores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xNYW50ZW5pbWllbnRvc0VudHJlVmFsb3Jlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/TipoCabaña/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmHDsWFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/TipoCabaña/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmHDsWFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/TipoCabaña/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmHDsWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/TipoCabaña/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmHDsWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renata/Desktop/Defensa P3/Obligatorio_P3_290199_275371/Obligatorio_P3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

@@ -1,0 +1,52 @@
+﻿@model HotelDeCabañas.Entidades.TipoCabaña
+
+<h1>Detalles de cabaña @Model.NombreTipo</h1>
+<p>
+
+
+
+</p>
+
+@if (Model != null)
+{
+
+    <div>
+        
+        <dl class="row">
+            <dt class="col-sm-2">
+                Nombre
+            </dt>
+            <dd class="col-sm-10">
+                @Model.NombreTipo
+            </dd>
+            <dt class="col-sm-2">
+                Descripcion
+            </dt>
+            <dd class="col-sm-10">
+                @Model.Descripcion
+            </dd>
+            <dt class="col-sm-2">
+                Costo por huesped
+            </dt>
+            <dd class="col-sm-10">
+                $ @Model.costoPorHuesped
+            </dd>
+        </dl>
+    </div>
+    <p>
+
+
+
+    </p>
+    <p>@ViewBag.msg</p>
+    <p>
+
+
+
+    </p>
+    <div>
+         <a asp-action="Index">Atras</a>
+    </div>
+    
+}
+

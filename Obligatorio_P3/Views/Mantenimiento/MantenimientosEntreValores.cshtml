@@ -1,0 +1,69 @@
+﻿@model IEnumerable<HotelDeCabañas.Entidades.Mantenimiento>
+
+<h1>Lista de Mantenimientos</h1>
+<br />
+<br />
+<h5>Busqueda entre valores :</h5>
+<form method="post">
+    <div class="row">
+        @*//Se envian dos valores a través del formulario al método por Post.*@
+        <input type="number" name="v1">
+        <input type="number" name="v2"><input type="submit" value="Buscar">
+    </div>
+    @*//Si el modelo llega vacío toma el id de un ViewBag generado en el método por post.*@
+    <div class="form-group">
+        <input name="nroHab" style="display:none;" value="@ViewBag.Hab" class="form-control" />
+    </div>
+
+</form>
+
+@if (Model != null)
+{
+    //Se genera tabla si hay mantenmientos para mostrar en el modelo, sino muestra mensaje de la excepción.
+        <table class="table table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        Id mantenimiento
+                    </th>
+                    <th>
+                        Fecha
+                    </th>
+                    <th>
+                        Descripcion
+                    </th>
+                    <th>
+                        Costo
+                    </th>
+                    <th>
+                        Nro. de Cabaña
+                    </th>                
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                        <tr>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                            </td>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.Fecha)
+                            </td>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                            </td>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.Costo.Valor)
+                            </td>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.NroHabitacion)
+                            </td>
+                        </tr>
+            }
+            </tbody>
+        </table>
+}else
+{
+    <p>@ViewBag.msg</p>
+}

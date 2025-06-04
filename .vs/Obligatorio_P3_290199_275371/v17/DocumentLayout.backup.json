@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\repositoriossql\\sqlrepositoriocaba\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\repositoriossql\\sqlrepositoriocaba\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\hotelcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\hotelcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230620140723_agregandoconfig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230620140723_agregandoconfig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230603060035_validacionesflexibles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230603060035_validacionesflexibles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230531135224_valueobjtcab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230531135224_valueobjtcab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230531115044_valueobjects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230531115044_valueobjects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230511204949_final.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230511204949_final.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230510145932_modificaciondectores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230510145932_modificaciondectores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230509021817_actualizacion_ctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230509021817_actualizacion_ctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504211703_actualizacionforeignmantenimiento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504211703_actualizacionforeignmantenimiento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504210855_actualizacionforeigntipo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504210855_actualizacionforeigntipo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504202657_actualizacionforeigntcaba\u00F1a2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504202657_actualizacionforeigntcaba\u00F1a2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504202604_actualizacionforeigntcaba\u00F1a1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504202604_actualizacionforeigntcaba\u00F1a1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504201704_actualizacionforeigntcaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504201704_actualizacionforeigntcaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504155430_actualizacionclasefuncionario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504155430_actualizacionclasefuncionario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504150549_reposactualizados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504150549_reposactualizados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230504143828_actualizarfoeigncaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230504143828_actualizarfoeigncaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230503133606_cambiokeycaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230503133606_cambiokeycaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\migrations\\20230503125312_agregandokeycaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\migrations\\20230503125312_agregandokeycaba\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\accesodedatos\\repositoriossql\\sqlrepositoriofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10142CEF-645F-4006-BD8E-AE8F48FEC2AE}|AccesoDeDatos\\AccesoDeDatos.csproj|solutionrelative:accesodedatos\\repositoriossql\\sqlrepositoriofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\webapi\\manejadorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\manejadorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\logicaaplicacion\\cu\\funcionariocu\\obtenerfuncionariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\funcionariocu\\obtenerfuncionariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FB05E1-F0F4-44E0-BE0B-BDBA61E173B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\logicaaplicacion\\interfacescu\\ifuncionario\\iobtenerfuncionariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ifuncionario\\iobtenerfuncionariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\logicaaplicacion\\interfacescu\\ifuncionario\\ilogincu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacescu\\ifuncionario\\ilogincu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\usuario\\source\\repos\\obligatorio_p3_290199_275371\\logicaaplicacion\\cu\\funcionariocu\\logincu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C44A581-8BB0-4F89-8FD9-2150A4041163}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\cu\\funcionariocu\\logincu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLRepositorioCaba\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioCaba\u00F1a.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioCaba\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioCaba\u00F1a.cs",
+              "RelativeToolTip": "AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioCaba\u00F1a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:21:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\HotelContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\HotelContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\HotelContextModelSnapshot.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\HotelContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:55.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\HotelContext.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\HotelContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\HotelContext.cs",
+              "RelativeToolTip": "AccesoDeDatos\\HotelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:57:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20230620140723_agregandoConfig.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230620140723_agregandoConfig.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230620140723_agregandoConfig.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230620140723_agregandoConfig.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230620140723_agregandoConfig.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:53.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20230603060035_ValidacionesFlexibles.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230603060035_ValidacionesFlexibles.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230603060035_ValidacionesFlexibles.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230603060035_ValidacionesFlexibles.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230603060035_ValidacionesFlexibles.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:50.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20230531135224_ValueObjTCab.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230531135224_ValueObjTCab.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230531135224_ValueObjTCab.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230531135224_ValueObjTCab.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230531135224_ValueObjTCab.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:48.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20230531115044_ValueObjects.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230531115044_ValueObjects.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230531115044_ValueObjects.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230531115044_ValueObjects.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230531115044_ValueObjects.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20230511204949_Final.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230511204949_Final.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230511204949_Final.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230511204949_Final.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230511204949_Final.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:44.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20230510145932_ModificacionDeCtores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230510145932_ModificacionDeCtores.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230510145932_ModificacionDeCtores.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230510145932_ModificacionDeCtores.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230510145932_ModificacionDeCtores.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20230509021817_Actualizacion_Ctor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230509021817_Actualizacion_Ctor.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230509021817_Actualizacion_Ctor.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230509021817_Actualizacion_Ctor.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230509021817_Actualizacion_Ctor.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20230504211703_ActualizacionForeignMantenimiento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504211703_ActualizacionForeignMantenimiento.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504211703_ActualizacionForeignMantenimiento.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504211703_ActualizacionForeignMantenimiento.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504211703_ActualizacionForeignMantenimiento.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:36.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20230504210855_ActualizacionForeignTipo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504210855_ActualizacionForeignTipo.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504210855_ActualizacionForeignTipo.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504210855_ActualizacionForeignTipo.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504210855_ActualizacionForeignTipo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:29.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20230504202657_ActualizacionForeignTCaba\u00F1a2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504202657_ActualizacionForeignTCaba\u00F1a2.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504202657_ActualizacionForeignTCaba\u00F1a2.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504202657_ActualizacionForeignTCaba\u00F1a2.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504202657_ActualizacionForeignTCaba\u00F1a2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20230504202604_ActualizacionForeignTCaba\u00F1a1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504202604_ActualizacionForeignTCaba\u00F1a1.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504202604_ActualizacionForeignTCaba\u00F1a1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504202604_ActualizacionForeignTCaba\u00F1a1.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504202604_ActualizacionForeignTCaba\u00F1a1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:25.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20230504201704_ActualizacionForeignTCaba\u00F1a.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504201704_ActualizacionForeignTCaba\u00F1a.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504201704_ActualizacionForeignTCaba\u00F1a.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504201704_ActualizacionForeignTCaba\u00F1a.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504201704_ActualizacionForeignTCaba\u00F1a.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20230504155430_ActualizacionClaseFuncionario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504155430_ActualizacionClaseFuncionario.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504155430_ActualizacionClaseFuncionario.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504155430_ActualizacionClaseFuncionario.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504155430_ActualizacionClaseFuncionario.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20230504150549_ReposActualizados.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504150549_ReposActualizados.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504150549_ReposActualizados.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504150549_ReposActualizados.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504150549_ReposActualizados.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20230504143828_actualizarFoeignCaba\u00F1a.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504143828_actualizarFoeignCaba\u00F1a.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230504143828_actualizarFoeignCaba\u00F1a.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230504143828_actualizarFoeignCaba\u00F1a.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230504143828_actualizarFoeignCaba\u00F1a.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:19.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20230503133606_cambioKeyCaba\u00F1a.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230503133606_cambioKeyCaba\u00F1a.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230503133606_cambioKeyCaba\u00F1a.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230503133606_cambioKeyCaba\u00F1a.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230503133606_cambioKeyCaba\u00F1a.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:17.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20230503125312_agregandoKeyCaba\u00F1a.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230503125312_agregandoKeyCaba\u00F1a.Designer.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\Migrations\\20230503125312_agregandoKeyCaba\u00F1a.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\Migrations\\20230503125312_agregandoKeyCaba\u00F1a.Designer.cs",
+              "RelativeToolTip": "AccesoDeDatos\\Migrations\\20230503125312_agregandoKeyCaba\u00F1a.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:20:01.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T23:03:19.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T22:49:55.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\Program.cs*",
+              "RelativeToolTip": "WebApi\\Program.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwHcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:28:25.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ObtenerFuncionarioCU.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\CU\\FuncionarioCU\\ObtenerFuncionarioCU.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\FuncionarioCU\\ObtenerFuncionarioCU.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\CU\\FuncionarioCU\\ObtenerFuncionarioCU.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\FuncionarioCU\\ObtenerFuncionarioCU.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:36:46.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManejadorJwt.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\ManejadorJwt.cs",
+              "RelativeDocumentMoniker": "WebApi\\ManejadorJwt.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\ManejadorJwt.cs",
+              "RelativeToolTip": "WebApi\\ManejadorJwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:54:58.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\WebApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:35:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IObtenerFuncionarioCU.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\InterfacesCU\\IFuncionario\\IObtenerFuncionarioCU.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IFuncionario\\IObtenerFuncionarioCU.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\InterfacesCU\\IFuncionario\\IObtenerFuncionarioCU.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IFuncionario\\IObtenerFuncionarioCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:36:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILoginCU.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\InterfacesCU\\IFuncionario\\ILoginCU.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\IFuncionario\\ILoginCU.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\InterfacesCU\\IFuncionario\\ILoginCU.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\IFuncionario\\ILoginCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:51:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLRepositorioFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioFuncionario.cs",
+              "RelativeDocumentMoniker": "AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioFuncionario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioFuncionario.cs",
+              "RelativeToolTip": "AccesoDeDatos\\RepositoriosSQL\\SQLRepositorioFuncionario.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:48:53.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginCU.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\CU\\FuncionarioCU\\LoginCU.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CU\\FuncionarioCU\\LoginCU.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Obligatorio_P3_290199_275371\\LogicaAplicacion\\CU\\FuncionarioCU\\LoginCU.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CU\\FuncionarioCU\\LoginCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:47:33.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

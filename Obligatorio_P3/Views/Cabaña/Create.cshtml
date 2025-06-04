@@ -1,0 +1,104 @@
+﻿@using HotelDeCabañas.Entidades;
+@model HotelDeCabañas.Entidades.Cabaña
+
+<h1>Alta de cabaña:</h1>
+<p>
+
+
+</p>
+<h4>Con el siguiente formulario podrá dar de alta una nueva cabaña:</h4>
+<p>
+
+
+</p>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label class="control-label">Tipo</label>
+                
+                <select name="NombreTipo">
+                    <option value="" >Selecciona una opción.</option>
+                    @*Se carga en el select los nombres de tipo guardados en un ViewBag.*@
+                    @if (ViewBag.tipoNombres.Count > 0)
+                    {
+                        @foreach (TipoCabaña tp in ViewBag.tipoNombres)
+                        {
+                            <option value="@tp.NombreTipo">@tp.NombreTipo</option>
+                        }
+                    }
+                    else
+                    {
+                        <option>No hay tipos de cabañas disponibles.</option>
+                    }
+                </select>
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Nombre</label>
+                <input asp-for="Nombre" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Descripcion</label>
+                <textarea rows="8" asp-for="Descripcion.Valor" class="form-control" name ="desc"></textarea>
+
+            </div>
+            <p>
+
+
+            </p>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="tieneJacuzzi" /> @Html.DisplayNameFor(model => model.tieneJacuzzi)
+                </label>
+            </div>
+            <p>
+
+
+            </p>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="estaHabilitada" /> @Html.DisplayNameFor(model => model.estaHabilitada)
+                </label>
+            </div>
+            <p>
+
+
+            </p>
+            <div class="form-group">
+                <label class="control-label">Cantidad maxima de personas:</label>
+                <input type="number" asp-for="cantMax" class="form-control" />
+            </div>
+            <p>
+
+
+            </p>
+            <div class="form-group">
+                <label for="img" class="control-label"></label>
+                <input type="file"  name="img" class="form-control" />
+                <span asp-validation="img" class="text-danger"></span>
+            </div>
+            <p>
+
+
+            </p>
+            <div class="form-group">
+                <input type="submit" value="Agregar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <p>
+
+    </p>
+    <p>@ViewBag.msg</p>
+    <p>
+
+    </p>
+    <div>
+        <a asp-action="Index">Atras</a>
+    </div>
+  
+
+
+

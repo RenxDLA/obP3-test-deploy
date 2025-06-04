@@ -1,0 +1,76 @@
+﻿@model IEnumerable<HotelDeCabañas.Entidades.Mantenimiento>
+
+<h1>Lista de Mantenimientos</h1>
+<br />
+<br />
+<h5>Busqueda por fechas :</h5>
+<form method="post">
+    <div class="row">
+        @*//Se envian dos fechas a través del formulario al método por Post.*@
+        <input type="date" name="d1">
+        <input type="date" name="d2"><input type="submit" value="Buscar">
+    </div>
+    @*//Si el modelo llega vacío toma el id de un ViewBag generado en el método por post.*@
+    <div class="form-group">
+        <input name="nroHab" style="display:none;" value="@ViewBag.Hab" class="form-control" />
+    </div>
+
+</form>
+
+<br />
+<br />
+<p>@ViewBag.msg</p>
+
+@if (Model != null)
+{
+    //Se genera tabla si hay mantenmientos para mostrar en el modelo, sino muestra mensaje de la excepción.
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Id mantenimiento
+                </th>
+                <th>
+                    Fecha
+                </th>
+                <th>
+                    Descripcion
+                </th>
+                <th>
+                    Costo
+                </th>
+                <th>
+                    Nro. de Cabaña
+                </th>                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fecha)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Costo.Valor)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NroHabitacion)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@*Action links para volver atrás a las listas de Cabañas.*@
+<div>
+    <a asp-controller="Cabaña" asp-action="Index">Volver a lista cabañas</a>
+    <br>
+    <a asp-controller="Cabaña" asp-action="CabañasHabilitadas">Volver a cabañas habilitadas </a>
+</div>

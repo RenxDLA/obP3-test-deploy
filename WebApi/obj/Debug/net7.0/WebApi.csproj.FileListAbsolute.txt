@@ -1,0 +1,422 @@
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\OBP3_19_06_23\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_11_22\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_19_06_23_21_47\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.xml
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.xml
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Renata\Desktop\OBLI P3 PARTE 2\obligatorioP3_2parte\Obligatorio_P3_Parte_2\Obligatorio_P3_20_06_23_15_07\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\WebApi.xml
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\DTOs.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\LogicaAplicacion.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\AccesoDeDatos.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\bin\Debug\net7.0\HotelDeCabañas.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.xml
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\Renata\Desktop\Defensa P3\Obligatorio_P3_290199_275371\WebApi\obj\Debug\net7.0\ref\WebApi.dll

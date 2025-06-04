@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.CabañaController.GetById(System.Int32)">
+            <summary>
+            Se obtiene la cabaña con el numero de habitacion indicado por parametros.
+            </summary>
+            <param name="id">Numero de la cabaña a buscar</param>
+            <returns>La cabaña con el numero de habitacion ingresado</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañaController.Post(DTOs.CabañaDTO)">
+            <summary>
+            Se agrega una nueva Cabaña.
+            </summary>
+            <param name="cab">Un objeto cabaña</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañaController.GetCabañas">
+            <summary>
+            Se obtienen todas las cabañas de la base de datos.
+            </summary>
+            <returns>Lista con las cabañas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañaController.SearchByName(System.String)">
+            <summary>
+            Se realiza una busqueda de cabañas segun su nombre.
+            </summary>
+            <param name="name">Contenido a buscar en los nombres de las cabañas</param>
+            <returns>Lista de cabañas filtradas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañaController.SearchByType(System.String)">
+            <summary>
+            Se realiza una busqueda de cabañas segun su tipo.
+            </summary>
+            <param name="type">Nombre del tipo a buscar</param>
+            <returns>Lista de cabañas filtradas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañaController.SearchByCantidad(System.Int32)">
+            <summary>
+            Se realiza una busqueda de cabañas segun su capacidad.
+            </summary>
+            <param name="cantidad">La cantidad necesaria para filtrar</param>
+            <returns>Lista de cabañas filtradas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañaController.SearchByState">
+            <summary>
+            Se realiza una busqueda de las cabañas habilitadas.
+            </summary>        
+            <returns>Lista de cabañas habilitadas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañaController.SearchByTipoYMonto(System.String,System.Double)">
+            <summary>
+            Se realiza busqueda de cabañas de acuerdo al monto y tipo.
+            </summary>
+            <param name="cantidad">El monto y el tipo por el cual filtraremos</param>
+            <returns>Lista de cabañas filtradas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.LoginController.Login(DTOs.FuncionarioDto)">
+            <summary>
+            Metodo para conseguir Token dado un usuario
+            </summary>
+            <param name="Funcionario">Credenciales de usuario que desea iniciar sesion</param>
+            <returns>Token generado</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MantenimientoController.GetById(System.Int32)">
+            <summary>
+            Se obtiene el mantenimiento con el numero de cabaña indicado.
+            </summary>
+            <param name="id">Numero de la cabaña con el mantenimiento a buscar</param>
+            <returns>El mantenimiento con el id ingresado</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MantenimientoController.Post(DTOs.MantenimientoDTO)">
+            <summary>
+            Se agrega un nuevo Mantenimiento.
+            </summary>
+            <param name="mant">MantenimientoDTO</param>
+            <returns>Devuelve un DTO del mantenimiento creado</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MantenimientoController.GetBetweenValues(System.Int32,System.Int32)">
+            <summary>
+            Se realiza busqueda de los matenimientos de acuerdo a dos capacidades.
+            </summary>
+            <param name="Valor">Mantenimientos realizados que esten dentro de dos montos</param>
+            <returns>Lista de cabañas filtradas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MantenimientoController.GetBetweenDates(System.DateTime,System.DateTime,System.Int32)">
+            <summary>
+            Se realiza busqueda de los matenimientos realizados entre dos fechas dadas.
+            </summary>
+            <param name="Fechas">Mantenimientos realizados que esten dentro de estas dos fechas</param>
+            <returns>Lista de cabañas filtradas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.TipoCabañaController.GetTipos">
+            <summary>
+            Se obtienen todos los tipos de cabaña que hay en la base de datos.
+            </summary>
+            <returns>Todos los tipos</returns>
+        </member>
+        <member name="M:WebApi.Controllers.TipoCabañaController.Post(DTOs.TipoCabañaDTO)">
+            <summary>
+            Se agrega un nuevo tipo de Cabaña.
+            </summary>
+            <param name="tipo">Tipo a agregar</param>
+            <returns>El tipo creado</returns>
+        </member>
+        <member name="M:WebApi.Controllers.TipoCabañaController.GetByName(System.String)">
+            <summary>
+            Se obtiene un solo tipo a partir de su nombre.
+            </summary>
+            <param name="name">Nombre a buscar</param>
+            <returns>Tipo con el nombre que se busco</returns>
+        </member>
+        <member name="M:WebApi.Controllers.TipoCabañaController.SearchByName(System.String)">
+            <summary>
+            Se realiza busqueda de los tipos a partir de su nombre.
+            </summary>
+            <param name="name">Contenido a buscar en los nombres de los tipos</param>
+            <returns>Lista de tipos</returns>
+        </member>
+        <member name="M:WebApi.Controllers.TipoCabañaController.Put(DTOs.TipoCabañaDTO,System.String)">
+            <summary>
+            Se modifican los datos nuevos en el tipo ya existente.
+            </summary>
+            <param name="tipo">Los nuevo datos</param>
+            <returns>El tipo modificado</returns>
+        </member>
+        <member name="M:WebApi.Controllers.TipoCabañaController.Delete(System.String)">
+            <summary>
+            Se elimina el tipo indicado de la base de datos.
+            </summary>
+            <param name="name">Id del tipo a eliminar</param>
+            <returns>El tipo eliminado</returns>
+        </member>
+    </members>
+</doc>
