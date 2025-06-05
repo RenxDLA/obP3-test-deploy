@@ -104,12 +104,18 @@ builder.Services.AddAuthorization(opciones =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Inspire Barbershop API v1");
+    c.RoutePrefix = string.Empty; // Muestra Swagger directamente en https://<tu-app>.azurewebsites.net/
+});
+
+//// Configure the HTTP request pipeline.
+//if (app.Environment.IsDevelopment())
+//{
+
+//}
 
 app.UseHttpsRedirection();
 
